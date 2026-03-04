@@ -31,3 +31,10 @@ This is a React Native project showcasing a fluid and highly optimized Hero Gall
 
 - Note: The app relies on CocoaPods, be sure to `pod install` periodically when adding/updating native modules.
 - If you face cache issues, try running Metro with `npm start -- --reset-cache`.
+
+-DEMO VIDEO
+
+https://github.com/user-attachments/assets/45fdc8f5-ba94-495b-8308-65dee2cb9a2c
+
+
+
